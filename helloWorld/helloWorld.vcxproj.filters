@@ -27,5 +27,11 @@
     <ClCompile Include="4varAndDataTypes3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5bool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6arithmeticOperators.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
