@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10keyboardInput.cpp" />
+    <ClCompile Include="11AverageOfThree.cpp" />
+    <ClCompile Include="12storyTelling.cpp" />
     <ClCompile Include="1main.cpp" />
     <ClCompile Include="2varAndDataTypes.cpp" />
     <ClCompile Include="3varAndDataTypes2.cpp" />
