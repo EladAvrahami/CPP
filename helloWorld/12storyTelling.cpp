@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
-
+/*
 int main() {
 	string adjictive1, girlsName, adjictive2, occupation1, placeName, clothing, hobby, adjictive3, occupation2, boysName, mansName;
 
@@ -22,7 +22,7 @@ int main() {
 	//u can also use this way: (because there is no int var here)
 	//getline(cin,hobby);
 
-
+	*/
 
 
 
@@ -36,6 +36,7 @@ int main() {
 	cout << "enter mansName " << endl;
 	cin >> mansName;*/
 
+/*
 	string story = "There once was a " + adjictive1 + " girl named " + girlsName + " who was a " +
 		adjictive2 + occupation1 + " in the kingdom of " + placeName + ". she love to wear " +
 		clothing + " and " + hobby;
@@ -45,3 +46,5 @@ int main() {
 
 	return 0;
 }
+
+*/
