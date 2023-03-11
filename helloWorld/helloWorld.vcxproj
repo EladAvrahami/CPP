@@ -131,7 +131,16 @@
     <ClCompile Include="11AverageOfThree.cpp" />
     <ClCompile Include="12storyTelling.cpp" />
     <ClCompile Include="1main.cpp" />
+    <ClCompile Include="23_3challenge.cpp" />
+    <ClCompile Include="24_1ifElseSwitch.cpp" />
+    <ClCompile Include="24_2_wsitch.cpp" />
+    <ClCompile Include="25_1whileLoop.cpp" />
+    <ClCompile Include="26breakContinue.cpp" />
+    <ClCompile Include="27randomNumber.cpp" />
+    <ClCompile Include="28exercies1.cpp" />
+    <ClCompile Include="29exercies2.cpp" />
     <ClCompile Include="2varAndDataTypes.cpp" />
+    <ClCompile Include="30exerciesGussTheNum.cpp" />
     <ClCompile Include="3varAndDataTypes2.cpp" />
     <ClCompile Include="4varAndDataTypes3.cpp" />
     <ClCompile Include="5bool.cpp" />

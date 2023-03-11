@@ -1,0 +1,1 @@
+//loop through integers 0-50 print out if the i is odd or even 
