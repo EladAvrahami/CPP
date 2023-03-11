@@ -13,70 +13,79 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\untilSection3">
+      <UniqueIdentifier>{bf7ea8d2-2891-46e3-a6fd-29f1ef916ca8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\4ArrayAndVectors">
+      <UniqueIdentifier>{26ea9cd1-e1ab-431b-aaaa-c76f21ff693a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1main.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="2varAndDataTypes.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="3varAndDataTypes2.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="4varAndDataTypes3.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="5bool.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="6arithmeticOperators.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="7relationalOperators.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="8logicalOperators.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="9constantAndNamingConversion.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="10keyboardInput.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="11AverageOfThree.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="12storyTelling.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="24_1ifElseSwitch.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="24_2_wsitch.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="23_3challenge.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
+    </ClCompile>
+    <ClCompile Include="24_2_wsitch.cpp">
+      <Filter>Source Files\untilSection3</Filter>
+    </ClCompile>
+    <ClCompile Include="24_1ifElseSwitch.cpp">
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="25_1whileLoop.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="26breakContinue.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="27randomNumber.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="28exercies1.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="29exercies2.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
     </ClCompile>
     <ClCompile Include="30exerciesGussTheNum.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\untilSection3</Filter>
+    </ClCompile>
+    <ClCompile Include="33builtInArray.cpp">
+      <Filter>Source Files\4ArrayAndVectors</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
