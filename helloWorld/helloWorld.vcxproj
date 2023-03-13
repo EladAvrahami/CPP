@@ -142,6 +142,7 @@
     <ClCompile Include="2varAndDataTypes.cpp" />
     <ClCompile Include="30exerciesGussTheNum.cpp" />
     <ClCompile Include="33builtInArray.cpp" />
+    <ClCompile Include="34ArrayClass.cpp" />
     <ClCompile Include="3varAndDataTypes2.cpp" />
     <ClCompile Include="4varAndDataTypes3.cpp" />
     <ClCompile Include="5bool.cpp" />
