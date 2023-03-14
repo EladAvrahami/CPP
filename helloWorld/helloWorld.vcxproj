@@ -143,6 +143,12 @@
     <ClCompile Include="30exerciesGussTheNum.cpp" />
     <ClCompile Include="33builtInArray.cpp" />
     <ClCompile Include="34ArrayClass.cpp" />
+    <ClCompile Include="35.1VectorExercies.cpp" />
+    <ClCompile Include="35VectorClass.cpp" />
+    <ClCompile Include="36Array2D.cpp" />
+    <ClCompile Include="37ArrayExercies.cpp" />
+    <ClCompile Include="38VectorExercies.cpp" />
+    <ClCompile Include="39PparallelArrayAndVectors.cpp" />
     <ClCompile Include="3varAndDataTypes2.cpp" />
     <ClCompile Include="4varAndDataTypes3.cpp" />
     <ClCompile Include="5bool.cpp" />

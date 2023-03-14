@@ -90,5 +90,23 @@
     <ClCompile Include="34ArrayClass.cpp">
       <Filter>Source Files\4ArrayAndVectors</Filter>
     </ClCompile>
+    <ClCompile Include="35VectorClass.cpp">
+      <Filter>Source Files\4ArrayAndVectors</Filter>
+    </ClCompile>
+    <ClCompile Include="35.1VectorExercies.cpp">
+      <Filter>Source Files\4ArrayAndVectors</Filter>
+    </ClCompile>
+    <ClCompile Include="36Array2D.cpp">
+      <Filter>Source Files\4ArrayAndVectors</Filter>
+    </ClCompile>
+    <ClCompile Include="37ArrayExercies.cpp">
+      <Filter>Source Files\4ArrayAndVectors</Filter>
+    </ClCompile>
+    <ClCompile Include="38VectorExercies.cpp">
+      <Filter>Source Files\4ArrayAndVectors</Filter>
+    </ClCompile>
+    <ClCompile Include="39PparallelArrayAndVectors.cpp">
+      <Filter>Source Files\4ArrayAndVectors</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
