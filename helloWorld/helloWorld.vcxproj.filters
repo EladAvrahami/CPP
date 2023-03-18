@@ -19,6 +19,9 @@
     <Filter Include="Source Files\4ArrayAndVectors">
       <UniqueIdentifier>{26ea9cd1-e1ab-431b-aaaa-c76f21ff693a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\5Functions">
+      <UniqueIdentifier>{95b65af4-e642-4a15-9574-97b3428f66c1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1main.cpp">
@@ -107,6 +110,45 @@
     </ClCompile>
     <ClCompile Include="39PparallelArrayAndVectors.cpp">
       <Filter>Source Files\4ArrayAndVectors</Filter>
+    </ClCompile>
+    <ClCompile Include="42FunctionPrototypeDefinition.cpp">
+      <Filter>Source Files\5Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="43FreturnTypeAndParams.cpp">
+      <Filter>Source Files\5Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="44PassByValue-byRefrence.cpp">
+      <Filter>Source Files\5Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="45identifireScopAndLifetime.cpp">
+      <Filter>Source Files\5Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="45.2exercies.cpp">
+      <Filter>Source Files\5Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="46FunctionOverloading.cpp">
+      <Filter>Source Files\5Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="47CmathLibrary.cpp">
+      <Filter>Source Files\5Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="48Recursion.cpp">
+      <Filter>Source Files\5Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="48.2recursionExercies.cpp">
+      <Filter>Source Files\5Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="49ExerciesReturnProductOfThreePrams.cpp">
+      <Filter>Source Files\5Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="50sum-Of-Built-in-Array.cpp">
+      <Filter>Source Files\5Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="51sum-of-array-object-element.cpp">
+      <Filter>Source Files\5Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="52retrive-array-obj-elements.cpp">
+      <Filter>Source Files\5Functions</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
