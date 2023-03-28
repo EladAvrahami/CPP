@@ -1,5 +1,7 @@
 # helloWorld of C++
 
+https://github.com/profjpbaugh/complete-cpp-developer-course
+
 <h3>Hello wrold section </h3>
 input output print string and int to consol
 
@@ -51,6 +53,18 @@ floor-rounding value down to nearest int
 more of the library fun :https://www.programiz.com/cpp-programming/library-function/cmath
 -------------
 recursion-when function call itself 
-ovver
+overloading -use function with the same name but diffrent function signatures 
+which include the number type and order of these functions parameter
+</pre>
+
+<h3>Section 6 - classes and Objects </h3>
+<pre>  
+OOP -object oriented programing , classes obj
+The three principles of OOP :
+1. Encapsulation - provides: 
+information hiding, data protected form outside world, portability
+2. Inheritance
+3. Polymorphism
+Unified Modeling Language (UML)
 
 </pre>
