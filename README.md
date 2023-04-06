@@ -66,5 +66,23 @@ information hiding, data protected form outside world, portability
 2. Inheritance
 3. Polymorphism
 Unified Modeling Language (UML)
+sparated compilation (58)
+spesification file (.h)
+implementation file (.cpp)
+#ifndef -if not defined, #define ,#endif
+
+CONSTRUCTORS & DESTRUCTORS
+constructors:
+* must have the same name as the class itself
+* are functions
+* can be overloaded
+* have NO return type (not even void)
+* are called when obj is created
+destructors:
+* there cam only be one
+* called automaticly whaen obj destroyed
+* does cleanup when obj is removed from memory
+(in other words,they called when obj destroyed)
+
 
 </pre>
