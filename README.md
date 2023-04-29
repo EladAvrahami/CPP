@@ -69,7 +69,8 @@ Unified Modeling Language (UML)
 sparated compilation (58)
 spesification file (.h)
 implementation file (.cpp)
-#ifndef -if not defined, #define ,#endif
+#ifndef -if not defined, #define ,#endif ?????
+the "this" keyword means that i mean to the data member not the parameter
 
 CONSTRUCTORS & DESTRUCTORS
 constructors:
@@ -84,5 +85,12 @@ destructors:
 * does cleanup when obj is removed from memory
 (in other words,they called when obj destroyed)
 
+immutable class- no setters just getters (book example)
 
+M_PI- is built in constant in the cmath library that represent pi
+and equall to 3.14159265358979323846
+(https://linuxhint.com/use-the-pi-constant-in-cpp/)
+
+encapsulation-combining fields and methods into individual entities,providing
+portability and security.
 </pre>
