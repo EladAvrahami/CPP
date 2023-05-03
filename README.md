@@ -94,3 +94,26 @@ and equall to 3.14159265358979323846
 encapsulation-combining fields and methods into individual entities,providing
 portability and security.
 </pre>
+
+<h3>Section 7 - Exceptions Debugging and inheritance</h3>
+<pre>  
+Exception: 
+* objects representing a response to an event
+* help us make the program more robust and fault-tolerant
+* Exception obj are created from classes ,just like any obj are.
+The top exception hierarchy is a class named exception.
+after that ther are most comman cousses are : 
+logic_error , runtime_error, bad_optional_access,bad_typeid
+
+first lets import the currect library like that👉 #include<stdexcept>  in order to be able using exceptions
+
+try{}
+catch(){cerr << "yayyy it big vector!" << endl;}
+print error using cerr insted of cout
+
+
+
+Inheritance - superclass and sub classes (superclass -animal subclasses- bird cat etc..)
+evrey subclass posses features of the superclass'but also have a spacial features of their own 
+
+</pre>
