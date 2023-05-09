@@ -110,7 +110,7 @@ first lets import the currect library like that👉 #include<stdexcept>  in orde
 try{}
 catch(){cerr << "yayyy it big vector!" << endl;}
 print error using cerr insted of cout
-
+noexcept - means that function dont throw an exception.
 
 
 Inheritance - superclass and sub classes (superclass -animal subclasses- bird cat etc..)
