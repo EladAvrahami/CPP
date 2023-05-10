@@ -111,6 +111,7 @@ try{}
 catch(){cerr << "yayyy it big vector!" << endl;}
 print error using cerr insted of cout
 noexcept - means that function dont throw an exception.
+rethrow exceptions -if u dont specify throw error it will throw the err by defoult(in the catch block)(70)
 
 
 Inheritance - superclass and sub classes (superclass -animal subclasses- bird cat etc..)
