@@ -1,6 +1,6 @@
 # helloWorld of C++
 
-https://github.com/profjpbaugh/complete-cpp-developer-course
+<!-- https://github.com/profjpbaugh/complete-cpp-developer-course -->
 
 <h3>Hello wrold section </h3>
 input output print string and int to consol
