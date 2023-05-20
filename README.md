@@ -115,8 +115,15 @@ rethrow exceptions -if u dont specify throw error it will throw the err by defou
 custom exception (71) -using inharitance to inharet code that already wrriten 
 we can use this principle making a custom exception class
 (71) no args/args con - also called parametized con where u can specify a massege
-
+(74) creating and using custom exception
 Inheritance - superclass and sub classes (superclass -animal subclasses- bird cat etc..)
 evrey subclass posses features of the superclass'but also have a spacial features of their own 
+
+</pre>
+
+<h3>Section 8 - Pointers </h3>
+<pre>
+
+
 
 </pre>
