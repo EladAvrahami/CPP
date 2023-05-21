@@ -123,6 +123,12 @@ evrey subclass posses features of the superclass'but also have a spacial feature
 
 <h3>Section 8 - Pointers </h3>
 <pre>
+also called pointers variable, holds a memory address.
+pointers called that because they point to data held in memmory rather than holding that data
+to declare pointer by putting an astrict between the data type and identifier
+basic example of pointer ,derefrance operator and binary multiplication operator(77) 
+
+int* 
 
 
 
