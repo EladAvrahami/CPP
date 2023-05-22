@@ -127,6 +127,10 @@ also called pointers variable, holds a memory address.
 pointers called that because they point to data held in memmory rather than holding that data
 to declare pointer by putting an astrict between the data type and identifier
 basic example of pointer ,derefrance operator and binary multiplication operator(77) 
+dynamic memory(78) create data dynamically using "new" keyword
+if not using the "new" keyword than the memmory located on an area called runtime stack.
+delete keyword remove the pointer from the heap memory and prevent "memory leak"
+
 
 int* 
 
